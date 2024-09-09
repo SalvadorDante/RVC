@@ -1,4 +1,4 @@
-# Cómo crear de cover con inteligencia artificial
+# Cómo crear un cover con inteligencia artificial
 
 ## Introducción
 La creación de cover mediante inteligencia artificial se basa en las tecnologías SVC y RVC, siendo esta última un poco mejor que la primera.de forma local
@@ -23,4 +23,6 @@ Para obtener modelos ya creados de RVC, debemos unirnos al grupo de Discord de I
 ## Paso 5: Metodo de Entrenamiento RVC local
 > En este paso te mostrare como crear una voz con tecnologia RVC y el Metodo de Entrenamiento RVC local para obtener nuevos modelos de voz.
 
-© 2023 Tutorial de Inteligencia Artificial creado por Dante
+
+> [!IMPORTANT]\
+> ` © 2023 Tutorial de Inteligencia Artificial creado por Dante `
